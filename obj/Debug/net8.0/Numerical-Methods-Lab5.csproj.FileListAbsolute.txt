@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical-Methods-Lab5\bin\Debug\net8.0\Numerical-Methods-Lab5.exe
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical-Methods-Lab5\bin\Debug\net8.0\Numerical-Methods-Lab5.deps.json
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical-Methods-Lab5\bin\Debug\net8.0\Numerical-Methods-Lab5.runtimeconfig.json
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical-Methods-Lab5\bin\Debug\net8.0\Numerical-Methods-Lab5.dll
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical-Methods-Lab5\bin\Debug\net8.0\Numerical-Methods-Lab5.pdb
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical-Methods-Lab5\obj\Debug\net8.0\Numerical-Methods-Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical-Methods-Lab5\obj\Debug\net8.0\Numerical-Methods-Lab5.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical-Methods-Lab5\obj\Debug\net8.0\Numerical-Methods-Lab5.AssemblyInfo.cs
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical-Methods-Lab5\obj\Debug\net8.0\Numerical-Methods-Lab5.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical-Methods-Lab5\obj\Debug\net8.0\Numerical-Methods-Lab5.dll
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical-Methods-Lab5\obj\Debug\net8.0\refint\Numerical-Methods-Lab5.dll
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical-Methods-Lab5\obj\Debug\net8.0\Numerical-Methods-Lab5.pdb
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical-Methods-Lab5\obj\Debug\net8.0\Numerical-Methods-Lab5.genruntimeconfig.cache
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical-Methods-Lab5\obj\Debug\net8.0\ref\Numerical-Methods-Lab5.dll
